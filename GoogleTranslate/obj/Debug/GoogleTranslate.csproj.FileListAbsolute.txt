@@ -1,0 +1,8 @@
+c:\users\павлове\documents\visual studio 2017\Projects\GoogleTranslate\GoogleTranslate\bin\Debug\GoogleTranslate.exe.config
+c:\users\павлове\documents\visual studio 2017\Projects\GoogleTranslate\GoogleTranslate\bin\Debug\GoogleTranslate.exe
+c:\users\павлове\documents\visual studio 2017\Projects\GoogleTranslate\GoogleTranslate\bin\Debug\GoogleTranslate.pdb
+c:\users\павлове\documents\visual studio 2017\Projects\GoogleTranslate\GoogleTranslate\bin\Debug\TranslaterLibr.dll
+c:\users\павлове\documents\visual studio 2017\Projects\GoogleTranslate\GoogleTranslate\bin\Debug\TranslaterLibr.pdb
+c:\users\павлове\documents\visual studio 2017\Projects\GoogleTranslate\GoogleTranslate\obj\Debug\GoogleTranslate.csprojResolveAssemblyReference.cache
+c:\users\павлове\documents\visual studio 2017\Projects\GoogleTranslate\GoogleTranslate\obj\Debug\GoogleTranslate.exe
+c:\users\павлове\documents\visual studio 2017\Projects\GoogleTranslate\GoogleTranslate\obj\Debug\GoogleTranslate.pdb

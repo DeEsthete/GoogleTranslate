@@ -1,0 +1,5 @@
+c:\users\павлове\documents\visual studio 2017\Projects\GoogleTranslate\TranslaterLibr\bin\Debug\TranslaterLibr.dll
+c:\users\павлове\documents\visual studio 2017\Projects\GoogleTranslate\TranslaterLibr\bin\Debug\TranslaterLibr.pdb
+c:\users\павлове\documents\visual studio 2017\Projects\GoogleTranslate\TranslaterLibr\obj\Debug\TranslaterLibr.csprojResolveAssemblyReference.cache
+c:\users\павлове\documents\visual studio 2017\Projects\GoogleTranslate\TranslaterLibr\obj\Debug\TranslaterLibr.dll
+c:\users\павлове\documents\visual studio 2017\Projects\GoogleTranslate\TranslaterLibr\obj\Debug\TranslaterLibr.pdb
